@@ -48,11 +48,8 @@ python main.py
 
 If you would like to contribute to the project, please read the [CONTRIBUTING.md](https://github.com/[username]/Sudoku/blob/master/CONTRIBUTING.md) file.
 
-## Acknowledgements
-
-- [Pyglet](https://pyglet.readthedocs.io/en/pyglet-1.3-maintenance/)
-- [Pygame](https://www.pygame.org/docs/)
-
 ## Contact
 
-If you have any questions or feedback, please feel free to contact me at [112344asafh@gmail.com(mailto:112344asafh@gmail.com).
+If you have any questions or feedback, please feel free to contact me at 112344asafh@gmail.com.
+
+You can also contact me through my LinkedIn profile at https://www.linkedin.com/in/asaf-hiya/.
