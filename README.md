@@ -34,7 +34,8 @@ git clone https://github.com/Asaf1h/Sudoku-game.git
 Install the requirements:
 
 ```
-pip install -r requirements.txt
+pip install pygame
+
 ```
 
 Run the game:
