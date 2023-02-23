@@ -25,7 +25,7 @@ This project requires Python 3.7 or higher to run.
 Clone the repository:
 
 ```
-git clone https://github.com/[username]/Sudoku.git
+git clone https://github.com/Asaf1h/Sudoku-game.git
 ```
 
 Install the requirements:
