@@ -44,9 +44,6 @@ Run the game:
 python main.py
 ```
 
-## Contributing
-
-If you would like to contribute to the project, please read the [CONTRIBUTING.md](https://github.com/[username]/Sudoku/blob/master/CONTRIBUTING.md) file.
 
 ## Contact
 
